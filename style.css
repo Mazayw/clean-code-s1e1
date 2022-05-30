@@ -123,7 +123,7 @@ button {
 }
 
 /* New Task */
-.section-title[for='new-task'] {
+.section-title[for="new-task"] {
   display: block;
   margin: 0 0 20px;
 }
