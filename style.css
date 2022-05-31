@@ -161,13 +161,13 @@ button {
   width: 226px;
 }
 
-.delete-icon {
+.delete__icon {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.delete-icon:hover {
+.delete__icon:hover {
   transform: rotateZ(0);
 }
 
